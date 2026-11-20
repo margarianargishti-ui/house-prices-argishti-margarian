@@ -1,0 +1,10 @@
+Model,CV_RMSE_mean,CV_RMSE_std
+Blend (Lasso + GB),0.1089,0.0061
+Lasso,0.1126,0.0067
+Lasso (tuned),0.1126,0.0067
+Ridge (tuned),0.1141,0.0078
+Ridge,0.1141,0.0078
+GradientBoosting (tuned),0.1145,0.0055
+GradientBoosting,0.1167,0.0058
+RandomForest,0.1306,0.0078
+Baseline (mean),0.3993,0.0168
